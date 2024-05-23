@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;Content+Creator)](https://vaib.carrd.co)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav2k21&label=Profile%20views&color=0e75b6&style=flat" alt="rishav2k21" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [College Helper](https://github.com/ujjwalkirti/helping-you-through-client)
 
 - 🌱 I’m currently learning **frontend(MERN), Backend, UI/UX, competative programming**
 
@@ -23,11 +17,8 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/15lAL4A-3gmthlxWKyq2RdLpsvhA-T5yG?usp=sharing)
 
-- ⚡ Fun fact **I am a Artist,Cricketer,Dancer**
+- ⚡ Fun fact **I am a Artist, Dancer, Sportsman**
 
-
-
-<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 <h3 align="left">Connect with me:</h3>   
 <p align="left">
 <a href="https://www.linkedin.com/in/adarshkumar-verma-723b11234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarshkumar-verma-723b11234/" height="30" width="40" /></a>
@@ -55,3 +46,4 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=adarsh7123" alt="adarsh7123" /></a> </p>
 
+<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
