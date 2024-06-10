@@ -123,15 +123,15 @@ ass-original.svg" alt="Sass" width="40" height="40"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh7123&show_icons=true&locale=en" alt="adarsh7123" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh7123&" alt="adarsh7123" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=adarsh7123" alt="adarsh7123" /></p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=adarsh7123" alt="adarsh7123" />
   </a>
 </p>
+
+
 
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow">
   <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" style="max-width:100%;">
