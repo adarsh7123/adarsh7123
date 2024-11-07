@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/HzPtbOKyBoBFsK4hyc.webp">
 
-- 🌱 I’m currently learning **frontend, UI/UX, Backend, MERN stack, competitive programming**
+- 🌱 I’m currently learning **frontend,  Backend, MERN stack, competitive programming , UI/UX**
 - 👯 I’m looking to collaborate on **Open source**
 - 📫 How to reach me **adarshverma127@gmail.com**
 - 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/15lAL4A-3gmthlxWKyq2RdLpsvhA-T5yG?usp=sharing)
